@@ -1,0 +1,1 @@
+*This app is maintained by [Steven Mitchell](https://github.com/stevesieweasel.io) and is updated as needed for development of the final porject for ESM 244. 
